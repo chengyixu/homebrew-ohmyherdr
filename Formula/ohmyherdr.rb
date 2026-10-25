@@ -1,5 +1,5 @@
 class Ohmyherdr < Formula
-  desc "Integration-driven terminal harnesses, native agent profiles, and shared coding spaces"
+  desc "Terminal multiplexer for AI coding agents with native profiles"
   homepage "https://github.com/chengyixu/oh-my-herdr"
   version "0.9.8"
   license "Apache-2.0"
