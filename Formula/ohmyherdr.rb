@@ -1,9 +1,9 @@
 class Ohmyherdr < Formula
   desc "Terminal multiplexer for AI coding agents with native profiles"
   homepage "https://github.com/chengyixu/oh-my-herdr"
-  url "https://github.com/chengyixu/oh-my-herdr/releases/download/ohmyherdr-v0.9.10/ohmyherdr-macos-aarch64"
-  version "0.9.10"
-  sha256 "8b7fc0bd6980ae143919df7c7aaf43913842148382b36d9146afb71575fb7331"
+  url "https://github.com/chengyixu/oh-my-herdr/releases/download/ohmyherdr-v0.9.11/ohmyherdr-macos-aarch64"
+  version "0.9.11"
+  sha256 "aeac7190ba29eb0ec84729c1f22dfe6d02d8835537dfe02df884e57b92165148"
   license "Apache-2.0"
 
   depends_on arch: :arm64
